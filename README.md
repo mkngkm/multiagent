@@ -1,6 +1,6 @@
 ### 2023 Spring COSE361 ARTIFICIAL INTELLIGENCE(ENGLISH)
 
-### From : UCB CS 188 | Spring 2020 [https://inst.eecs.berkeley.edu/~cs188/sp20/project1/
+### From : UCB CS 188 | Spring 2020 https://inst.eecs.berkeley.edu/~cs188/sp20/minicontest1/
 
 ### Overview
 In this mini-contest, you will apply the search algorithms and problems implemented in Project 1 to handle more difficult scenarios that include controlling multiple pacman agents and planning under time constraints. There is room to bring your own unique ideas, and there is no single set solution. We are very much looking forward to seeing what you come up with!
